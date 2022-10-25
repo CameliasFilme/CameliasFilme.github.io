@@ -1,0 +1,265 @@
+/* background-colors */
+
+.light_blue {
+  background-color: #1fade1 !important;
+}
+
+.main_blue {
+  background-color: #157294 !important;
+}
+
+.dark_blue {
+  background-color: #0c4154 !important;
+}
+
+.introducao {
+  margin-top: 2.8em !important;
+  height: 500px !important;
+}
+
+.introducao_index {
+  margin-top: 2.8em !important;
+  height: 750px !important;
+}
+
+.image_index {
+  background: url('../static/fullhd.jpg') no-repeat center !important;
+  background-size: cover !important;
+  height: 700px !important;
+}
+
+.image_intro {
+  background: url('../static/fullhd.jpg') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
+.bg_image {
+  background: url('../static/fullhd.jpg') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
+.icone {
+  height: 40px !important;
+}
+
+.separate {
+  width: 1000px;
+  margin-top: 20px !important;
+}
+
+.box {
+  height: 100px;
+  margin-right: -10px !important;
+  margin-left: -10px !important;
+  margin-top: -15px !important;
+  border-radius: 5px !important;
+}
+
+.italic {
+  font-style: italic !important;
+}
+.small_text {
+  margin: 20px !important;
+  padding-top: 30px !important;
+}
+
+.center_box {
+  margin-top: 1em !important;
+}
+.divisor {
+  height: 5px !important;
+  width: 100px !important;
+  padding: 0 !important;
+  padding-top: 20px !important;
+  margin-top: 5px !important;
+  color: white !important;
+  position: relative;
+  z-index: 100 !important;
+}
+
+.centralizado {
+  margin-top: 15em;
+}
+
+.centralizado_intro {
+  margin-top: 10em;
+}
+
+.centralizada_image {
+  margin-top: 150px !important;
+}
+
+a {
+  color: white !important;
+}
+a:hover {
+  color: #0c4154 !important;
+}
+
+/* Responsive Slides */
+.rslides {
+  position: relative;
+  list-style: none;
+  overflow: hidden;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.rslides li {
+  -webkit-backface-visibility: hidden;
+  position: absolute;
+  display: none;
+  width: 100%;
+  left: 0;
+  top: 0;
+}
+
+.rslides li:first-child {
+  position: relative;
+  display: block;
+  float: left;
+}
+
+.rslides img {
+  display: block;
+  height: auto;
+  float: left;
+  width: 100%;
+  border: 0;
+}
+
+.rslides_tabs li {
+  display: inline;
+  margin: 0 5px;
+}
+
+.rslides_tabs li a {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  background: #fff;
+  color: #fff;
+  border-radius: 20px;
+  overflow: hidden;
+  text-indent: -200px;
+}
+
+.rslides_tabs li a:hover,
+.rslides_tabs li.rslides_here a {
+  background: #1fade1;
+  color: #1fade1;
+  padding-top: 5px;
+  width: 14px;
+  height: 14px;
+  transition: all 0.5s ease;
+}
+
+/* Slide in effects */
+.slide-in-text {
+  animation: slideIn 3s;
+  -webkit-animation: slideIn 3s;
+  -moz-animation: slideIn 3s;
+  -o-animation: slideIn 3s;
+  -ms-animation: slideIn 3s;
+}
+
+@keyframes slideIn {
+  from {
+    padding-top: 100%;
+  }
+  to {
+    padding-top: 0%;
+  }
+}
+
+@-moz-keyframes slideIn {
+  from {
+    padding-top: 100%;
+  }
+  to {
+    padding-top: 0%;
+  }
+}
+
+@-webkit-keyframes slideIn {
+  from {
+    padding-top: 100%;
+  }
+  to {
+    padding-top: 0%;
+  }
+}
+
+@-o-keyframes slideIn {
+  from {
+    padding-top: 100%;
+  }
+  to {
+    padding-top: 0%;
+  }
+}
+
+@-ms-keyframes slideIn {
+  from {
+    padding-top: 100%;
+  }
+  to {
+    padding-top: 0%;
+  }
+}
+
+/* Fade in effects */
+.fade-in-image {
+  animation: fadeIn 3s;
+  -webkit-animation: fadeIn 3s;
+  -moz-animation: fadeIn 3s;
+  -o-animation: fadeIn 3s;
+  -ms-animation: fadeIn 3s;
+}
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-moz-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-o-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-ms-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
