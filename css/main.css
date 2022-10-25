@@ -23,19 +23,19 @@
 }
 
 .image_index {
-  background: url('../static/fullhd.jpg') no-repeat center !important;
+  background: url('../Imgs/pagina_principal/capa.jpeg') no-repeat center !important;
   background-size: cover !important;
   height: 700px !important;
 }
 
 .image_intro {
-  background: url('../static/fullhd.jpg') no-repeat center !important;
+  background: url('../Imgs/pagina_principal/capa.jpeg') no-repeat center !important;
   background-size: cover !important;
   height: 400px !important;
 }
 
 .bg_image {
-  background: url('../static/fullhd.jpg') no-repeat center !important;
+  background: url('../Imgs/pagina_principal/capa.jpeg') no-repeat center !important;
   background-size: cover !important;
   height: 400px !important;
 }
