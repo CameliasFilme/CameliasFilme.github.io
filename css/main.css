@@ -40,6 +40,169 @@
   height: 400px !important;
 }
 
+/* Imagens pagina conhecer */
+.bg_image_prod1 {
+  background: url('../Imgs/conhecer/producao1.jpg') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
+.bg_image_prod2 {
+  background: url('../Imgs/conhecer/producao2.jpg') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
+.bg_image_prod3 {
+  background: url('../Imgs/conhecer/producao3.jpg') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
+.bg_image_cen1 {
+  background: url('../Imgs/conhecer/cenarios1.jpg') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
+.bg_image_cen2 {
+  background: url('../Imgs/conhecer/cenarios2.jpg') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
+.bg_image_cen3 {
+  background: url('../Imgs/conhecer/cenarios3.jpg') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
+.bg_image_rot1 {
+  background: url('../Imgs/conhecer/roteiro1.jpg') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
+.bg_image_rot2 {
+  background: url('../Imgs/conhecer/roteiro2.jpg') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
+.bg_image_rot3 {
+  background: url('../Imgs/conhecer/roteiro3.jpg') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
+.bg_image_ruy1 {
+  background: url('../Imgs/conhecer/ruy1.jpg') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
+.bg_image_ruy2 {
+  background: url('../Imgs/conhecer/ruy2.jpg') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
+.bg_image_ruy3 {
+  background: url('../Imgs/conhecer/ruy3.jpg') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
+.bg_image_alex1 {
+  background: url('../Imgs/conhecer/alex1.jpeg') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
+.bg_image_alex2 {
+  background: url('../Imgs/conhecer/alex2.jpg') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
+.bg_image_alex3 {
+  background: url('../Imgs/conhecer/alex3.jpg') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
+.bg_image_teo1 {
+  background: url('../Imgs/conhecer/teo1.jpg') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
+.bg_image_teo2 {
+  background: url('../Imgs/conhecer/teo2.jpg') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
+.bg_image_teo3 {
+  background: url('../Imgs/conhecer/teo3.jpg') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
+.bg_image_cleo1 {
+  background: url('../Imgs/conhecer/cleo1.jpg') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
+.bg_image_cleo2 {
+  background: url('../Imgs/conhecer/cleo2.jpg') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
+.bg_image_cleo3 {
+  background: url('../Imgs/conhecer/cleo3.jpg') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
+.bg_image_thiago1 {
+  background: url('../Imgs/conhecer/thiago1.jpg') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
+.bg_image_thiago2 {
+  background: url('../Imgs/conhecer/thiago2.jpg') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
+.bg_image_thiago3 {
+  background: url('../Imgs/conhecer/thiago3.jpg') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
+.bg_image_nando1 {
+  background: url('../Imgs/conhecer/nando1.jpeg') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
+.bg_image_nando2 {
+  background: url('../Imgs/conhecer/nando2.jpeg') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
+.bg_image_nando3 {
+  background: url('../Imgs/conhecer/nando3.jpeg') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
 .icone {
   height: 40px !important;
 }
