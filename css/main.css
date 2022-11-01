@@ -12,6 +12,11 @@
   background-color: #0c4154 !important;
 }
 
+.text_border {
+  text-shadow: 2px 0 #fff, -2px 0 #fff, 0 2px #fff, 0 -2px #fff,
+               1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
+}
+
 .introducao {
   margin-top: 2.8em !important;
   height: 500px !important;
@@ -202,6 +207,32 @@
   background-size: cover !important;
   height: 400px !important;
 }
+
+/* RELACIONAR */
+.bg_image_est1 {
+  background: url('../Imgs/relacionar/estreia1.JPG') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
+.bg_image_est2 {
+  background: url('../Imgs/relacionar/estreia2.JPG') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
+.bg_image_est3 {
+  background: url('../Imgs/relacionar/estreia3.JPG') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
+.bg_image_est4 {
+  background: url('../Imgs/relacionar/estreia4.JPG') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
 
 .icone {
   height: 40px !important;
