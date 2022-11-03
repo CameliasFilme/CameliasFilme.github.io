@@ -233,6 +233,12 @@
   height: 400px !important;
 }
 
+.bg_image_olhares {
+  background: url('../Imgs/vivenciar/abertura3.png') no-repeat center !important;
+  background-size: cover !important;
+  height: 400px !important;
+}
+
 
 .icone {
   height: 40px !important;
